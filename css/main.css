@@ -1,6 +1,6 @@
 html {
   box-sizing: border-box;
-  font-family:"Open Sans"sans-serif;
+  font-family: "Open Sans", sans-serif;
   line-height: 1.5;
 }
 
@@ -45,7 +45,7 @@ img {
 }
 
 hgroup {
- width: 16em;
+  width: 16em;
 }
 
 h3, h4 {
@@ -58,8 +58,8 @@ p {
 }
 
 a {
-  background-color:#444;
-  color:#fff;
+  background-color: #444;
+  color: #fff;
   text-decoration: none;
-  padding:.5rem 1rem .6rem;
+  padding: .5rem 1rem .6rem;
 }
